@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space Louka</string>
+    <string name="pic1">Un prado con un único árbol</string>
+    <string name="pic1_info">No hay nadie al rededor</string>
+    <string name="pic2">Arból solo en el campo</string>
+    <string name="pic2_info">Este árbol tiene una antiguedad de 3 años</string>
+    <string name="pic3">Arból en la playa</string>
+    <string name="pic3_info">A este arból le gusta la arena</string>
+</resources>
